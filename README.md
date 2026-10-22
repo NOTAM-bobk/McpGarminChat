@@ -1,5 +1,9 @@
 # Garmin Chat
 
+5DPht7w96FAB3Tv2JwDZADquoZhjjTo7mN2kCoLsNXHwPwWJ3r
+
+
+
 Chat with your own Garmin activities, sleep, recovery, and training data. Garmin
 access is provided by the hosted [MissingMCP Garmin MCP server](https://missingmcp.com/garmin);
 answers come from **Groq** (server-side, primary) or **Puter.js** (browser, optional).
